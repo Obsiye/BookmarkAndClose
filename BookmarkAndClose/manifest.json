@@ -1,0 +1,22 @@
+{
+    "name": "BookStash",
+    "version": "1.0",
+    "description": "Bookmark and close all tabs in window",
+    "permissions": ["tabs", "bookmarks"],
+    "page_action": {
+        "default_popup": "popup.html"
+      },
+    "default_icon": {
+      "16": "images/classone.png",
+      "32": "images/classone.png",
+      "48": "images/classone.png",
+      "128": "images/classone.png"
+    },
+    "icons": {
+        "16": "images/classone.png",
+        "32": "images/classone.png",
+        "48": "images/classone.png",
+        "128": "images/classone.png"
+      },
+    "manifest_version": 2
+  }
