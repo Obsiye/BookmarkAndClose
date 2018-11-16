@@ -7,16 +7,16 @@
         "default_popup": "popup.html"
       },
     "default_icon": {
-      "16": "images/classone.png",
-      "32": "images/classone.png",
-      "48": "images/classone.png",
-      "128": "images/classone.png"
+      "16": "images/pelican.png",
+      "32": "images/pelican.png",
+      "48": "images/pelican.png",
+      "128": "images/pelican.png"
     },
     "icons": {
-        "16": "images/classone.png",
-        "32": "images/classone.png",
-        "48": "images/classone.png",
-        "128": "images/classone.png"
+        "16": "images/pelican.png",
+        "32": "images/pelican.png",
+        "48": "images/pelican.png",
+        "128": "images/pelican.png"
       },
     "manifest_version": 2
   }
