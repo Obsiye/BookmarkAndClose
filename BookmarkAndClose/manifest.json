@@ -2,21 +2,25 @@
     "name": "BookStash",
     "version": "1.0",
     "description": "Bookmark and close all tabs in window",
-    "permissions": ["tabs", "bookmarks"],
+    "permissions": ["declarativeContent","storage","tabs", "bookmarks"],
     "page_action": {
         "default_popup": "popup.html"
       },
-    "default_icon": {
-      "16": "images/pelican.png",
-      "32": "images/pelican.png",
-      "48": "images/pelican.png",
-      "128": "images/pelican.png"
-    },
-    "icons": {
+      "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+      },
+      "default_icon": {
         "16": "images/pelican.png",
         "32": "images/pelican.png",
         "48": "images/pelican.png",
         "128": "images/pelican.png"
       },
-    "manifest_version": 2
-  }
+      "icons": {
+          "16": "images/pelican.png",
+          "32": "images/pelican.png",
+          "48": "images/pelican.png",
+          "128": "images/pelican.png"
+        },
+      "manifest_version": 2
+    }
