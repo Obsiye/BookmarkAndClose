@@ -16,5 +16,6 @@
           "48": "images/pelican.png",
           "128": "images/pelican.png"
         },
+      "default_locale": "en",
       "manifest_version": 2
     }
