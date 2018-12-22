@@ -1,8 +1,8 @@
 {
-    "name": "BookStash",
-    "version": "1.0",
-    "description": "Bookmark and close all tabs in window",
-    "permissions": ["declarativeContent","storage","tabs", "bookmarks"],
+    "name": "StashFetch",
+    "version": "0.0.0.2",
+    "description": "Stash then close all tabs in window. Fetch the previously stashed items.",
+    "permissions": ["declarativeContent","storage","tabs", "bookmarks","activeTab"],
     "page_action": {
         "default_popup": "popup.html"
       },
