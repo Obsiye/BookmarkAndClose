@@ -1,5 +1,7 @@
 # BookmarkAndClose
 
+The chrome extension is here https://chrome.google.com/webstore/detail/tabhoarder/ghaiildlkpmlhlbmpcjjachjcciohhpn?hl=en
+
 Start up:
 
 ## Head to chrome://extensions in your browser 
